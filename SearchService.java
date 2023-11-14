@@ -8,8 +8,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class SearchService {
-    private static final String API_KEY = "AIzaSyDuy5rScHGYxnZuYCI5C8_yXVPvVwP-_3k"; // Replace with your Google API key
-    private static final String SEARCH_ENGINE_ID = "53ba6c9ca3be24646"; // Replace with your Search Engine ID
+    private static final String API_KEY = ""; // Replace with your Google API key
+    private static final String SEARCH_ENGINE_ID = ""; // Replace with your Search Engine ID
 
     public List<String> search(String query) {
         try {
