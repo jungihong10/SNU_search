@@ -1,0 +1,9 @@
+GET /user/login?id=admin&passwd=admin HTTP/1.1
+GET /user/join?id=admin&passwd=admin HTTP/1.1
+GET /user/join?id=asdf&passwd=asdf HTTP/1.1
+GET /user/leave?id=asdf&passwd=asdf HTTP/1.1
+GET /user/recover?id=asdf&passwd=asdf HTTP/1.1
+GET /user/join?id=abcd&passwd=abcd HTTP/1.1
+GET /user/leave?id=abcd&passwd=abcd HTTP/1.1
+GET /user/leave?id=admin&passwd=admin HTTP/1.1
+GET /user/login?id=admin&passwd=admin HTTP/1.1
